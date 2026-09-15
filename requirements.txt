@@ -1,0 +1,10 @@
+streamlit
+streamlit-webrtc
+opencv-python
+av
+ultralytics
+lap==0.5.13
+numpy
+scikit-learn==1.9.0
+joblib
+pandas

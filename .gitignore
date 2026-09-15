@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+security/dataset/
+security/downloads/
+security/weapon_runs/
+temp_weapon_dataset.zip
+
+models/weapon_detection/
